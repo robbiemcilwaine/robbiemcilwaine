@@ -7,9 +7,9 @@
 
 - 👨‍💻 LinkedIn [https://www.linkedin.com/in/robbie-mcilwaine-060631246/](https://www.linkedin.com/in/robbie-mcilwaine-060631246/)
 
-- 📫 How to reach me **robbiemcilwaine99@gmail.com**
+- 📫 How to reach me robbiemcilwaine99@gmail.com
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/14hb88xvGkq4DgnsKy2q5m360lpAk1SNV/edit?usp=sharing&ouid=111990079146958450522&rtpof=true&sd=true](https://docs.google.com/document/d/14hb88xvGkq4DgnsKy2q5m360lpAk1SNV/edit?usp=sharing&ouid=111990079146958450522&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vRP7jcx1ZSGqAAChEWAnkm6IObQejq1wNtHl8T1metj4m4UIrSBBgBzZAJNEmutPg/pub](https://docs.google.com/document/d/e/2PACX-1vRP7jcx1ZSGqAAChEWAnkm6IObQejq1wNtHl8T1metj4m4UIrSBBgBzZAJNEmutPg/pub)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
