@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robbie</h1>
 <h3 align="center">An enthusiastic programmer from Belfast 😎</h3>
 <img align="left" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdhZ211NTkzOGUyOG94ZGZwaXE4dTdnOTd4YTRyaW96c2plOXJ2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eSwvmQHi0j9Ve3gaUb/giphy.gif">
-<img align="right" alt="Coding" width="200" src="https://cdn.pixabay.com/animation/2022/12/10/02/37/02-37-06-545_512.gif">
+<img align="center" alt="Coding" width="300" src="https://cdn.pixabay.com/animation/2022/12/10/02/37/02-37-06-545_512.gif">
 
 - 🔭 I’m currently working on [a data science project about the 2022 world cup](https://github.com/robbiemcilwaine/data-science-project)
 
