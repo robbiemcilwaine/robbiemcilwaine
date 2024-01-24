@@ -12,7 +12,7 @@
 
 - 📄 Check out my resume [https://docs.google.com/document/d/e/2PACX-1vRP7jcx1ZSGqAAChEWAnkm6IObQejq1wNtHl8T1metj4m4UIrSBBgBzZAJNEmutPg/pub](https://docs.google.com/document/d/e/2PACX-1vRP7jcx1ZSGqAAChEWAnkm6IObQejq1wNtHl8T1metj4m4UIrSBBgBzZAJNEmutPg/pub)
 
-<br>
+
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
