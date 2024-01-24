@@ -15,8 +15,8 @@
 
 - 📄 Check out my resume [https://docs.google.com/document/d/e/2PACX-1vRP7jcx1ZSGqAAChEWAnkm6IObQejq1wNtHl8T1metj4m4UIrSBBgBzZAJNEmutPg/pub](https://docs.google.com/document/d/e/2PACX-1vRP7jcx1ZSGqAAChEWAnkm6IObQejq1wNtHl8T1metj4m4UIrSBBgBzZAJNEmutPg/pub)
 
-<div style="width: 100%; text-align: center;">
-  <img alt="Coding" width="300" src="https://media4.giphy.com/media/xT5LMwRuJUt3d8Hk3K/giphy.gif">
+<div style="text-align: center;">
+  <img alt="Coding" width="300" src="https://media4.giphy.com/media/xT5LMwRuJUt3d8Hk3K/giphy.gif?cid=ecf05e473qtx8tsneqjg4uxbc9pgyphy1nzrnlmsxb8f7f8z&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
 
 
