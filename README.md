@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Robbie</h1>
 <h3 align="center">An enthusiastic programmer from Belfast 😎</h3>
 
-- 🔭 I’m currently working on [A data science project about the 2022 world cup](https://github.com/robbiemcilwaine/data-science-project)
+- 🔭 I’m currently working on [a data science project about the 2022 world cup](https://github.com/robbiemcilwaine/data-science-project)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript and Python**
+
+- 👨‍💻 LinkedIn [https://www.linkedin.com/in/robbie-mcilwaine-060631246/](https://www.linkedin.com/in/robbie-mcilwaine-060631246/)
 
 - 📫 How to reach me **robbiemcilwaine99@gmail.com**
 
-- 📄 Know about my experiences [file:///Users/admin/Downloads/SoftwareDeveloperRobbieMcilwaineResume.docx.html](file:///Users/admin/Downloads/SoftwareDeveloperRobbieMcilwaineResume.docx.html)
+- 📄 Know about my experiences [https://docs.google.com/document/d/14hb88xvGkq4DgnsKy2q5m360lpAk1SNV/edit?usp=sharing&ouid=111990079146958450522&rtpof=true&sd=true](https://docs.google.com/document/d/14hb88xvGkq4DgnsKy2q5m360lpAk1SNV/edit?usp=sharing&ouid=111990079146958450522&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/robbie-mcilwaine-060631246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/robbie-mcilwaine-060631246/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
