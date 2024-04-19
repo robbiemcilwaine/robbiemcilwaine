@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a data science project about the 2022 world cup](https://github.com/robbiemcilwaine/data-science-project)
 
-- 🌱 I’m learning **HTML, CSS, JavaScript and Python**
+- 🌱 I’m learning **HTML, CSS, JavaScript, and Java**
 
 - 👨‍💻 LinkedIn [https://www.linkedin.com/in/robbie-mcilwaine-060631246/](https://www.linkedin.com/in/robbie-mcilwaine-060631246/)
 
