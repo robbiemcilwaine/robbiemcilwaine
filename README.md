@@ -9,10 +9,6 @@
 
 - 🌱 I’m learning **HTML, CSS, JavaScript, and Java**
 
-- 👨‍💻 LinkedIn [https://www.linkedin.com/in/robbie-mcilwaine-060631246/](https://www.linkedin.com/in/robbie-mcilwaine-060631246/)
-
-- 📫 How to reach me robbiemcilwaine99@gmail.com
-
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
