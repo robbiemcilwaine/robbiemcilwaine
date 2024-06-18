@@ -5,7 +5,7 @@
   <img alt="Coding" width="300" src="https://cdn.pixabay.com/animation/2022/12/10/02/37/02-37-06-545_512.gif">
 </div>
 
-- 🔭 I’m currently participating in Bright Network's Software Engineering academy. Here, I am actively contributing to group and solo projects in the front and back end.
+- 🔭 I’m currently participating in **Bright Network's Software Engineering academy**. Here, I am actively contributing to group and solo projects in the front and back end.
 
 - 🌱 I’m learning **HTML, CSS, JavaScript, and Java**
 
