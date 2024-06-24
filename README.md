@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Robbie</h1>
+# Hello there
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+# My name is Robbie Mcilwaine.
 <h3 align="center">an enthusiastic programmer from Belfast 😎</h3>
 <div style="text-align: center;">
   <img alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdhZ211NTkzOGUyOG94ZGZwaXE4dTdnOTd4YTRyaW96c2plOXJ2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eSwvmQHi0j9Ve3gaUb/giphy.gif">
