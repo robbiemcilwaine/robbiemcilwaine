@@ -16,6 +16,20 @@
 
 </div>
 
+### 🏃‍♂️‍➡️ Hobbies:
+- **⚽️ Five aside football**
+- <img width="20" src="https://user-images.githubusercontent.com/112943652/204321783-2857778e-408c-46dc-b1e4-a6db66de9536.png"> **Programming**
+- **🎸Playing guitar**
+- **📚 Learning new things**
+- **✈️Travelling**
+- **🏋️Lifting**
+- **🫀Cardio**
+- **🏉 Tag Rugby**
+
+### ☎️ Reach me:
+- Email: robbiemcilwaine99@gmail.com
+- Linkedin: <a href="https://www.linkedin.com/in/robbie-mcilwaine-060631246/">**Linked**<img width="15" src="https://user-images.githubusercontent.com/112943652/204323974-4c914872-a8f2-44d6-9200-43b8be2f9244.png"></a>
+
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
