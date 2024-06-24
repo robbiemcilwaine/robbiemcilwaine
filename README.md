@@ -10,8 +10,10 @@
 - 🧑‍💻 Back end: **Java** within the **Spring Boot Framework**
 
 <div align="center">
+  
 [![Linkedin](https://img.shields.io/badge/-Linkedin-08C6F5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robbie-mcilwaine-060631246/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/robbiemcilwaine)
+
 </div>
 
 <br>
