@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently participating in **Bright Network's Software Engineering academy**. Here, I am actively contributing to group and solo projects in the front and back end.
 
-- 🧑‍💻 Front end: **HTML, CSS** and **JavaScript** within the **React Framework**
+- 🖥️ Front end: **HTML, CSS** and **JavaScript** within the **React Framework**
 
-- 🖥️ Back end: **Java** within the **Spring Boot Framework**
+- 🧑‍💻 Back end: **Java** within the **Spring Boot Framework**
 
 <br>
 
