@@ -23,7 +23,7 @@
 - **📚 Learning new things**
 - **✈️Travelling**
 - **🏋️Lifting**
-- **🫀Cardio**
+- **🏃‍♂️‍➡️Cardio**
 - **🏉 Tag Rugby**
 
 ### ☎️ Reach me:
