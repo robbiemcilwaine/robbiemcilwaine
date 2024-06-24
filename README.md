@@ -29,7 +29,6 @@
 ### ☎️ Reach me:
 - Email: robbiemcilwaine99@gmail.com
 - Linkedin: <a href="https://www.linkedin.com/in/robbie-mcilwaine-060631246/">**Linked**<img width="15" src="https://user-images.githubusercontent.com/112943652/204323974-4c914872-a8f2-44d6-9200-43b8be2f9244.png"></a>
-
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
