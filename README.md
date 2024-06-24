@@ -1,17 +1,16 @@
 # Hello there
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-# My name is Robbie Mcilwaine.
-<h3 align="center">an enthusiastic programmer from Belfast 😎</h3>
-<div style="text-align: center;">
-  <img alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdhZ211NTkzOGUyOG94ZGZwaXE4dTdnOTd4YTRyaW96c2plOXJ2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eSwvmQHi0j9Ve3gaUb/giphy.gif">
-  <img alt="Coding" width="300" src="https://cdn.pixabay.com/animation/2022/12/10/02/37/02-37-06-545_512.gif">
-</div>
+
+# My name is Robbie Mcilwaine
 
 - 🔭 I’m currently participating in **Bright Network's Software Engineering academy**. Here, I am actively contributing to group and solo projects in the front and back end.
 
 - 🖥️ Front end: **HTML, CSS** and **JavaScript** within the **React Framework**
 
 - 🧑‍💻 Back end: **Java** within the **Spring Boot Framework**
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-08C6F5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robbie-mcilwaine-060631246/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/robbiemcilwaine)
 
 <br>
 
