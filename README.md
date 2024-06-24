@@ -10,7 +10,7 @@
 - 🧑‍💻 Front end: **HTML, CSS** and **JavaScript** within the **React Framework**
 
 - 🖥️ Back end: **Java** within the **Spring Boot Framework**
-- 
+
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
