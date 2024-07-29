@@ -7,7 +7,7 @@
 
 - 🖥️ Front end: **HTML, CSS**, **JavaScript**, **React**
 
-- 🧑‍💻 Back end: **Java**, **Spring Boot**
+- 🧑‍💻 Back end: **Java**, **Spring Boot**, **PostgreSQL**
 
 <div align="center">
   
