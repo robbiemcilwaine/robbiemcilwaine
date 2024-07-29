@@ -3,7 +3,7 @@
 
 # My name is Robbie Mcilwaine
 
-- 🔭 I’m currently participating in **Bright Network's Software Engineering academy**. Here, I am actively contributing to group and solo projects in the front and back end.
+- 🔭 Recent graduate of **Bright Network's Software Engineering academy**. Here, I took part in classes covering a range of technologies and programming languages, and actively contributed towards group projects in the front and back end.
 
 - 🖥️ Front end: **HTML, CSS**, **JavaScript**, **React**
 
