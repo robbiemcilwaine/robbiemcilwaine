@@ -3,7 +3,7 @@
 
 # My name is Robbie Mcilwaine
 
-- 🔭 Recent graduate of **Bright Network's Software Engineering academy**. Here, I took part in classes covering a range of technologies, industry practices and programming languages, and actively contributed towards group projects in the front and back end.
+- 🔭 Recent graduate of **Bright Network's Software Engineering academy**. Here, I took part in classes covering a range of technologies, industry practices and programming languages, as well as actively contributed towards group projects in the front and back end.
 
 - 🖥️ Front end: **HTML, CSS**, **JavaScript**, **React**
 
