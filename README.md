@@ -4,6 +4,7 @@
 # My name is Robbie Mcilwaine
 
 - 🔭 Recent graduate of **Bright Network's Software Engineering academy**. Here, I took part in classes covering a range of technologies, industry practices and programming languages, completed paired and solo labs, and actively contributed towards group projects across the full stack.
+- ⚽️ Currently working as a Freelance Software Engineer for Clann, an exciting start up developing tracking software for Gaelic Football players.
 
 - 🖥️ Front end: **HTML, CSS**, **JavaScript**, **React**
 
